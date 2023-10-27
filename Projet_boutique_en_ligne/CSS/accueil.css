@@ -1,0 +1,128 @@
+/* carrousel */
+
+.carousel {
+    border-radius: 25px;
+    overflow: hidden;
+}
+
+.carousel .slide,
+.carousel-item .d-block {
+    height: 300px;
+}
+
+#carouselExample {
+    width: 39%;
+    margin: auto;
+    margin-bottom: 7%;
+}
+
+/* commentaires mieux noté */
+.card-i-top {
+    border-radius: 42px 42px 0 0;
+}
+
+.card {
+    border-radius: 42px;
+}
+
+.rcard {
+    width: 100%;
+}
+
+.cardd1 {
+    display: flex;
+    justify-content: flex-end;
+    width: 400px;
+
+}
+
+.cardd2 {
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+
+}
+
+.cardd3 {
+    display: flex;
+    justify-content: flex-start;
+    width: 400px;
+
+}
+
+
+#carrd {
+    width: 426px;
+    height: 200px;
+    align-items: center;
+}
+
+.guill {
+    width: 77px;
+    position: absolute;
+    right: -34px;
+    top: -25px;
+}
+
+.card-text {
+    margin-top: 5px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+}
+
+.card-title {
+    font-family: 'Poppins', sans-serif;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.note {
+    width: 130px;
+}
+
+#comm {
+    margin-left: -26px;
+}
+
+.titre_comm {
+    text-align: center;
+    margin-bottom: 70px;
+    font-family: 'Playpen Sans', cursive;
+    font-size: 25px;
+    color: #bd9582;
+    font-weight: 700;
+}
+
+.card {
+    border: solid rgb(207 207 207 / 18%) !important;
+}
+
+
+/* partenaire */
+
+.col_3 {
+    text-align: center;
+}
+
+.col_1 {
+    text-align: end;
+}
+
+.col_2 {
+    text-align: end;
+}
+
+.partenaire {
+    margin-bottom: 30px;
+}
+
+
+.titre_part {
+    text-align: center;
+    margin-bottom: 70px;
+    font-family: 'Playpen Sans', cursive;
+    font-size: 25px;
+    color: #000000;
+}

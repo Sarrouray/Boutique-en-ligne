@@ -1,0 +1,32 @@
+/* accordeon */
+.accord {
+    width: 1000px;
+    margin: auto;
+}
+
+
+#accor {
+    border: none;
+}
+
+.accordion-button {
+
+    font-weight: bolder;
+}
+
+.accordion-button[aria-expanded="true"] {
+    background-color: #C8A589 !important;
+    color: white !important;
+}
+
+
+.accordion-button:focus {
+    outline: none !important;
+    box-shadow: none !important;
+    color: white !important;
+    background-color: #C8A589 !important;
+}
+
+footer {
+    position: fixed;
+}
