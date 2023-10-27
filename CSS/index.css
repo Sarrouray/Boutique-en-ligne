@@ -1,0 +1,87 @@
+.bloc_log {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}
+
+
+section {
+    margin-left: 46%;
+    margin-top: 190px;
+    height: 330px;
+    width: 397px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, .3);
+    position: fixed;
+    padding-top: 33px;
+
+
+
+}
+
+form {
+    text-align: center;
+    margin-top: -24px;
+}
+
+p {
+    text-align: center;
+    font-size: 19px;
+    font-family: 'Playpen Sans', cursive;
+    color: #C8A589;
+    font-weight: bolder;
+}
+
+input[type="text"] {
+    margin-top: 5px;
+    border-radius: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 364px;
+    height: 50px;
+    border-color: rgb(184, 184, 184);
+    padding-left: 15px;
+    font-size: 15px;
+    outline-style: none;
+
+
+}
+
+input[type="password"] {
+    margin-top: 15px;
+    border-radius: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 364px;
+    height: 50px;
+    border-color: rgb(184, 184, 184);
+    padding-left: 15px;
+    font-size: 15px;
+    outline-style: none;
+
+
+}
+
+input {
+    border: none;
+    border-bottom: 1px solid #d0cfcf;
+    font-family: 'Tilt Neon', sans-serif;
+}
+
+
+
+button {
+    background-color: #C8A589;
+    color: white;
+    border: none;
+    font-family: 'Tilt Neon', sans-serif;
+    width: 364px;
+    height: 42px;
+
+}
+
+#sub {
+    border-radius: 40px;
+    font-weight: bold;
+}
